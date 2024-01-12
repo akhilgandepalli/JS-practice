@@ -1,0 +1,10 @@
+.cont{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+.card{
+    border: 2px solid grey;
+    box-shadow: 1px 1px 10px 0.5px grey;
+}
