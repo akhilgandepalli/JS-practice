@@ -29,7 +29,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    animation: linear-gradient 7s ease infinite;
 }
 .inner-circle{
     width: 210px;

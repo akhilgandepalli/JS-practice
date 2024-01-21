@@ -15,10 +15,12 @@ const onRestart = () => {
     start.classList.remove('show')
     pause.classList.add('show');
     reset.classList.add('show');
+    start.innerHTML='Start';
 }
 const onStop = () => {
     pause.classList.add('show');
-    start.classList.remove('show')
+    start.classList.remove('show');
+    start.innerHTML='Play';
 }
 
 const displayTimer = () =>{
