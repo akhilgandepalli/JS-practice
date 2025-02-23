@@ -8,3 +8,7 @@
     border: 2px solid grey;
     box-shadow: 1px 1px 10px 0.5px grey;
 }
+h4,p{
+    margin: 0;
+    padding: 4px;
+}
